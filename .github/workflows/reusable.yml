@@ -19,4 +19,5 @@ jobs:
       - name: Output information
         run: |
           echo "Deploying..."
+          ls
           echo "Deployed!"
